@@ -46,5 +46,13 @@
         "tg": "@theYescoin_bot",
         "status": "paused",
         "ml": "console.log(window.Telegram.WebApp.initData)"
+    },
+    {
+        "id": 8,
+        "name": "VanaDataHero",
+        "hot": "🔥🔥🔥🔥🔥",
+        "tg": "@VanaDataHeroBot",
+        "status": "paused",
+        "ml": "console.log(window.Telegram.WebApp.initData)"
     }
 ]
