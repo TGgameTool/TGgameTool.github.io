@@ -54,5 +54,13 @@
         "tg": "@VanaDataHeroBot",
         "status": "paused",
         "ml": "console.log(window.Telegram.WebApp.initData)"
+    },
+    {
+        "id": 9,
+        "name": "Wizzwoods",
+        "hot": "🔥🔥🔥🔥🔥",
+        "tg": "@WizzwoodsBot",
+        "status": "paused",
+        "ml": "console.log(window.Telegram.WebApp.initData)"
     }
 ]
