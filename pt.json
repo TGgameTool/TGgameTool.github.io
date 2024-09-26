@@ -57,9 +57,9 @@
     },
     {
         "id": 9,
-        "name": "Wizzwoods",
+        "name": "MemeFi",
         "hot": "🔥🔥🔥",
-        "tg": "@WizzwoodsBot",
+        "tg": "@memefi_coin_bot",
         "status": "paused",
         "ml": "console.log(window.Telegram.WebApp.initData)"
     }
