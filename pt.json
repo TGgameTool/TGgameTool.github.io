@@ -62,5 +62,14 @@
         "tg": "@memefi_coin_bot",
         "status": "paused",
         "ml": "console.log(window.Telegram.WebApp.initData)"
+    },
+    {
+        "id": 10,
+        "name": "Cats",
+        "hot": "🔥🔥🔥",
+        "tg": "@catsgang_bot",
+        "status": "paused",
+        "ml": "console.log(window.Telegram.WebApp.initData)"
     }
+    
 ]
