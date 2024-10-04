@@ -8,6 +8,14 @@
         "ml": "console.log(window.Telegram.WebApp.initData)"
     },
     {
+        "id": 2,
+        "name": "Banana",
+        "hot": "🔥🔥🔥🔥",
+        "tg": "@OfficialBananaBot",
+        "status": "paused",
+        "ml": "console.log(window.Telegram.WebApp.initData)"
+    },
+    {
         "id": 4,
         "name": "DJDOG",
         "hot": "🔥🔥🔥",
