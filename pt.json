@@ -58,10 +58,17 @@
     {
         "id": 9,
         "name": "MemeFi",
-        "hot": "🔥🔥🔥",
+        "hot": "🔥🔥🔥🔥",
         "tg": "@memefi_coin_bot",
         "status": "paused",
         "ml": "console.log(window.Telegram.WebApp.initData)"
+    },
+    {
+        "id": 11,
+        "name": "Major",
+        "hot": "🔥🔥🔥🔥🔥",
+        "tg": "@major",
+        "status": "paused",
+        "ml": "console.log(window.Telegram.WebApp.initData)"
     }
-    
 ]
