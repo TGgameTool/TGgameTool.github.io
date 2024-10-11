@@ -70,5 +70,13 @@
         "tg": "@major",
         "status": "paused",
         "ml": "console.log(window.Telegram.WebApp.initData)"
+    },
+    {
+        "id": 12,
+        "name": "WCoin",
+        "hot": "🔥🔥🔥🔥🔥",
+        "tg": "@wcoin_tapbot",
+        "status": "paused",
+        "ml": "console.log(window.Telegram.WebApp.initData)"
     }
 ]
