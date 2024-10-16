@@ -81,7 +81,7 @@
     },
     {
         "id": 13,
-        "name": "TON Station",
+        "name": "TON_Station",
         "hot": "🔥🔥🔥🔥",
         "tg": "@tonstationgames_bot",
         "status": "paused",
