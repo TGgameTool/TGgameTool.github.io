@@ -78,5 +78,13 @@
         "tg": "@wcoin_tapbot",
         "status": "paused",
         "ml": "console.log(window.Telegram.WebApp.initData)"
+    },
+    {
+        "id": 13,
+        "name": "TON Station",
+        "hot": "🔥🔥🔥🔥",
+        "tg": "@tonstationgames_bot",
+        "status": "paused",
+        "ml": "console.log(window.Telegram.WebApp.initData)"
     }
 ]
