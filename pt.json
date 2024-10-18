@@ -94,5 +94,13 @@
         "tg": "@theFreeDogs_bot",
         "status": "paused",
         "ml": "console.log(window.Telegram.WebApp.initData)"
+    },
+    {
+        "id": 15,
+        "name": "UXLINK",
+        "hot": "🔥🔥🔥🔥",
+        "tg": "@uxlink_bot",
+        "status": "paused",
+        "ml": "console.log(window.Telegram.WebApp.initData)"
     }
 ]
